@@ -1,3 +1,3 @@
-Feature2 changes
 added README.txt
-Feature 1
+Feature1
+Feature2 changes
