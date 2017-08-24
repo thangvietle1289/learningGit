@@ -1,1 +1,1 @@
-Fixing #bug12345
+Fixing bug#12345
