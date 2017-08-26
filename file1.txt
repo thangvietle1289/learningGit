@@ -2,3 +2,4 @@ Added file1
 Fix1
 update file 1 from master branch
 [rebasing] update file1
+Updated file1.txt
