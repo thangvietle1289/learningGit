@@ -1,0 +1,11 @@
+# folder
+public/cache
+tmp/*
+db/*.db
+log/*
+cache
+.idea
+.sass-cache/*
+
+# files
+*.log
